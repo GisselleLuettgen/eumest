@@ -1,0 +1,16 @@
+{
+  "name": "eumest",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "author": "MarcellaConnelly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GisselleLuettgen/eumest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GisselleLuettgen/eumest.git/issues"
+  },
+  "homepage": "https://github.com/GisselleLuettgen/eumest.git",
+  "version": "1.0.0"
+}
